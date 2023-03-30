@@ -40,3 +40,8 @@ input, button {
     border-radius: 8px;
     font-size: 16px;
 }
+
+#thankyouMessage {
+    opacity: 0;
+    transition: all 0.5s;
+}
